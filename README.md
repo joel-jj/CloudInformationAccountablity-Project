@@ -14,10 +14,10 @@ To strengthen user’s control we provide distributed auditing mechanisms where 
 
 Minimum SPECIFICATION for Deployment
 	 
-Operating System           -   	Windows 7 | Ubuntu 10.10 | MAC OSx
-Application Server         - 	Tomcat 7.0  		 
-Front End                  - 	HTML, CSS 
-Scripts                    -   	Shell Scripts, JavaScript 
-Server side Script         -   	Java Server Pages 
-Database                   -   	MySQL 5.1 
-Database Connectivity      -   	JDBC 
+Operating System           -   	Windows 7 | Ubuntu 10.10 | MAC OSx,
+Application Server         - 	Tomcat 7.0,  		 
+Front End                  - 	HTML &CSS, 
+Scripts                    -   	Shell Scripts, JavaScript ,
+Server side Script         -   	Java Server Pages, 
+Database                   -   	MySQL 5.1 ,
+Database Connectivity      -   	JDBC. 
